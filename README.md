@@ -4,3 +4,4 @@
 
 * transformer
 * langchain
+* diffusion model
